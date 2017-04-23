@@ -1,0 +1,57 @@
+#left{
+     width: 650px;
+     height: 500px;
+     float:left;
+     margin-left: 30px;
+}
+#content{
+     width: 550px;
+     float:left;
+     margin-left: 30px;
+     margin-right: 5px;
+     margin-bottom: 5px;
+}
+#header{
+	 height: 130px;
+	 float: left;
+	 margin: 10px
+	 min-height:220px;
+}
+table{
+	 background-color: #F2F2F2;
+	 height: 400px;
+}
+label{
+	 float: left;
+	 width: 50px;
+	 margin-left: 100px;
+	}
+body{
+     overflow: hidden;
+     min-height: 670px;
+     margin-left: 20px;
+     margin-right: 20px;
+    } 
+td h3{
+	 color: #FF8000;
+}
+td{
+	 font-size: 150%;
+	 color: #006241;
+}
+#ad{
+	 color:green ;
+
+}
+button.btn{
+	 width:250px;
+	 min-height: 60px;
+	 margin-bottom: 7px;
+}
+
+
+/*p {
+	 width: 300px;
+	 background: #F5F5F5;
+	 border: 1;
+}*/
